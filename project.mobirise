@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sufiansobri",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -705,6 +705,23 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/osaka-1.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "<b>Osaka Travelog</b>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "My first travelog video, do watch it &amp; enjoy",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" href=\"https://www.youtube.com/watch?v=Gloi_FnQeLQ&amp;list=PL_-PgX7KlyPJX1XhxeP8pby6wdffR8l3n\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch now!</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/me-1.jpg",
                 "active": false,
                 "showButtons": true,
@@ -721,23 +738,6 @@
                 "text": "I do photos, videos &amp; graphic design",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Who am i</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">What I do</a>",
                 "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/osaka-1.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "<b>Osaka Travelog</b>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "My first travelog video. Do watch &amp; enjoy!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.youtube.com/watch?v=Gloi_FnQeLQ&amp;list=PL_-PgX7KlyPJX1XhxeP8pby6wdffR8l3n\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Osaka Travelog</a>  "
               }
             ]
           }
